@@ -6,6 +6,6 @@ public class DatabaseConfig {
 
 	public static String PASSWORD = "root";
 
-	public static String URL = "jdbc:mysql://localhost:3306/21jansdet";
+	public static String URL = "jdbc:mysql://localhost:3306/ims";
 
 }
